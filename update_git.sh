@@ -58,8 +58,8 @@ update_repository /home/l10n/mozilla/git/scripts "VM Scripts"
 # Update l10n repositories
 update_repository /home/l10n/mozilla/repositories/locamotion "GIT mozilla-lang "
 
-#green "Updating Langchecker sources"
-#/home/l10n/mozilla/git/langchecker/app/scripts/update_sources
+green "Updating Langchecker sources"
+/home/l10n/mozilla/git/langchecker/app/scripts/update_sources
 
 update_repository /home/l10n/mozilla/repositories/prod_mozillaorg "mozilla.org prod"
 # Also fetch trunk for mozilla.org prod
