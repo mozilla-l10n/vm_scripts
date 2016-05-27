@@ -1,0 +1,15 @@
+# Display current Git branch
+alias ls='ls --color=auto'
+PS1="\[\e[1;32m\][\u@\h \W]\$(parse_git_branch)\[\e[0m\] "
+
+function parse_git_branch () {
+       git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+}
+
+# Set up aliases
+alias gitup='~/mozilla/git/scripts/update_git.sh'
+alias mozup='~/mozilla/git/scripts/update_mozillaorg.sh'
+alias mozmeld='meld ~/mozilla/repositories/mozilla_org/ ~/mozilla/repositories/prod_mozillaorg/'
+alias trunkst='cd ~/mozilla/repositories/mozilla_org/;git status'
+alias prodst='cd ~/mozilla/repositories/prod_mozillaorg/;git fetch trunk;git status'
+alias storest='cd ~/mozilla/repositories/appstores/;git status'
