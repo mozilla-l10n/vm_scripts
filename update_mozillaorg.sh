@@ -14,6 +14,7 @@ mark_active firefox/hello-start-45.lang
 mark_active firefox/tracking-protection-tour.lang
 mark_active mozorg/404.lang
 mark_active mozorg/contribute/signup.lang
+mark_active teach/smarton/index.lang
 mark_active thunderbird/channel.lang
 
 # Add tags
