@@ -43,7 +43,10 @@ function update_repository()
   if git config remote.upstream.url > /dev/null
   then
       green "Fetching upstream..."
+      git fetch upstream
+      green "Merging upstream..."
       git merge upstream/master
+      green "Pushing to origin..."
       git push
   fi
 }
