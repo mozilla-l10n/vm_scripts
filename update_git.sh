@@ -30,8 +30,11 @@ function update_repository()
 
   # Remove pending changes, untracked files and folders
   green "Remove pending changes and untracked files/folders..."
+  # Remove staged changes
   git reset --hard
+  # Remove unstaged changes
   git clean -fd
+  git checkout -- .
 
   # Make sure to be on master
   green "Updating master..."
