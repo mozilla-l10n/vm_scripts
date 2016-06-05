@@ -2,6 +2,11 @@
 
 These scripts are used inside a special VM used to maintain webdashboards and Bedrock.
 
+First of all clone this repository in `~/mozilla/git/scripts`
+```
+git clone https://github.com/mozilla-l10n/vm_scripts ~/mozilla/git/scripts
+```
+
 ## Bash Aliases
 To load `.bashrc_aliases` in your profile, add the following lines to `~/.bashrc`
 ```bash
