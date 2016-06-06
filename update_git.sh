@@ -6,15 +6,15 @@ GREEN=$(tput setaf 2; tput bold)
 YELLOW=$(tput setaf 3)
 RED=$(tput setaf 1)
 
-function red() {
+function echored() {
     echo -e "$RED$*$NORMAL"
 }
 
-function green() {
+function echogreen() {
     echo -e "$GREEN$*$NORMAL"
 }
 
-function yellow() {
+function echoyellow() {
     echo -e "$YELLOW$*$NORMAL"
 }
 
@@ -24,17 +24,17 @@ function update_repository()
   repo_name="${2}"
 
   cd ${repo_path}
-  green "\n-------------------"
-  green "Updating ${repo_name}...."
-  green "-------------------"
+  echogreen "\n-------------------"
+  echogreen "Updating ${repo_name}...."
+  echogreen "-------------------"
 
   # Remove pending changes, untracked files and folders
-  green "Remove pending changes and untracked files/folders..."
+  echogreen "Remove pending changes and untracked files/folders..."
   git reset --hard
   git clean -fd
 
   # Make sure to be on master
-  green "Updating master..."
+  echogreen "Updating master..."
   git checkout master
   git pull
   git fetch -p
@@ -42,11 +42,11 @@ function update_repository()
   # If upstream is defined, try to merge and push back to origin
   if git config remote.upstream.url > /dev/null
   then
-      green "Fetching upstream..."
+      echogreen "Fetching upstream..."
       git fetch upstream
-      green "Merging upstream..."
+      echogreen "Merging upstream..."
       git merge upstream/master
-      green "Pushing to origin..."
+      echogreen "Pushing to origin..."
       git push
   fi
 }
@@ -61,7 +61,7 @@ update_repository /home/l10n/mozilla/git/scripts "VM Scripts"
 # Update l10n repositories
 update_repository /home/l10n/mozilla/repositories/locamotion "GIT mozilla-lang "
 
-green "Updating Langchecker sources"
+echogreen "Updating Langchecker sources"
 /home/l10n/mozilla/git/langchecker/app/scripts/update_sources
 
 update_repository /home/l10n/mozilla/repositories/prod_mozillaorg "mozilla.org prod"
