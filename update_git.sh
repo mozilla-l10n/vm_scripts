@@ -24,7 +24,7 @@ function update_repository()
   repo_name="${2}"
 
   cd ${repo_path}
-  green "-------------------"
+  green "\n-------------------"
   green "Updating ${repo_name}...."
   green "-------------------"
 
