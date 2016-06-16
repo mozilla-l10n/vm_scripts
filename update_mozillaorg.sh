@@ -7,6 +7,7 @@ trunkst
 
 # Mark active files
 mark_active firefox/accounts.lang
+mark_active firefox/android/index.lang
 mark_active firefox/family/index.lang
 mark_active firefox/features.lang
 mark_active firefox/hello-2016.lang
@@ -18,7 +19,9 @@ mark_active teach/smarton/index.lang
 mark_active thunderbird/channel.lang
 
 # Add tags
+add_tags firefox/android/index.lang
 add_tags firefox/channel.lang
+add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
 add_tags firefox/family/index.lang
 add_tags firefox/hello-2016.lang
