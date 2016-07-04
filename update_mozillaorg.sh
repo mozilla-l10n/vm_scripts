@@ -12,11 +12,22 @@ mark_active firefox/family/index.lang
 mark_active firefox/features.lang
 mark_active firefox/hello-2016.lang
 mark_active firefox/hello-start-45.lang
+mark_active firefox/sendto.lang
 mark_active firefox/tracking-protection-tour.lang
+mark_active firefox/tracking-protection-tour.lang
+mark_active firefox/whatsnew_38.lang
+mark_active firefox/whatsnew_42.lang
+mark_active firefox/win10-welcome.lang
 mark_active mozorg/404.lang
+mark_active mozorg/about.lang
 mark_active mozorg/contribute/signup.lang
+mark_active mozorg/home/index.lang
+mark_active mozorg/mission.lang
+mark_active mozorg/products.lang
+mark_active privacy/principles.lang
 mark_active teach/smarton/index.lang
 mark_active thunderbird/channel.lang
+mark_active thunderbird/start/release.lang
 
 # Add tags
 add_tags firefox/android/index.lang
@@ -24,6 +35,7 @@ add_tags firefox/channel.lang
 add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
 add_tags firefox/family/index.lang
+add_tags firefox/geolocation.lang
 add_tags firefox/hello-2016.lang
 add_tags firefox/hello.lang
 add_tags firefox/new.lang
