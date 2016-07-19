@@ -5,6 +5,9 @@ trunkst
 
 # ~/mozilla/scripts/killbom.sh
 
+# Remove templates folder from trunkst
+rm -rf templates
+
 # Mark active files
 mark_active firefox/accounts.lang
 mark_active firefox/android/index.lang
