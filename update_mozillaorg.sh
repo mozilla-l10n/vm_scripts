@@ -39,6 +39,7 @@ add_tags firefox/android/index.lang
 add_tags firefox/channel.lang
 add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
+add_tags firefox/developer.lang
 add_tags firefox/family/index.lang
 add_tags firefox/geolocation.lang
 add_tags firefox/hello-2016.lang
