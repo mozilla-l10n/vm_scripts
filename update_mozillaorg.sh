@@ -11,13 +11,21 @@ rm -rf templates
 # Mark active files
 mark_active firefox/accounts.lang
 mark_active firefox/android/index.lang
+mark_active firefox/australis/firefox_tour.lang
+mark_active firefox/australis/fx36_tour.lang
+mark_active firefox/channel.lang
+mark_active firefox/desktop/customize.lang
+mark_active firefox/desktop/fast.lang
+mark_active firefox/desktop/index.lang
+mark_active firefox/desktop/trust.lang
 mark_active firefox/family/index.lang
 mark_active firefox/features.lang
 mark_active firefox/hello-2016.lang
 mark_active firefox/hello-start-45.lang
+mark_active firefox/installer-help.lang
 mark_active firefox/new/horizon.lang
 mark_active firefox/sendto.lang
-mark_active firefox/tracking-protection-tour.lang
+mark_active firefox/sync.lang
 mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/whatsnew_38.lang
 mark_active firefox/whatsnew_42.lang
@@ -32,6 +40,7 @@ mark_active mozorg/products.lang
 mark_active privacy/principles.lang
 mark_active teach/smarton/index.lang
 mark_active thunderbird/channel.lang
+mark_active thunderbird/features.lang
 mark_active thunderbird/index.lang
 mark_active thunderbird/start/release.lang
 
