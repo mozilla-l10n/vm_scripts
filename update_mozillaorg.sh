@@ -32,6 +32,7 @@ mark_active mozorg/products.lang
 mark_active privacy/principles.lang
 mark_active teach/smarton/index.lang
 mark_active thunderbird/channel.lang
+mark_active thunderbird/index.lang
 mark_active thunderbird/start/release.lang
 
 # Add tags
@@ -44,6 +45,7 @@ add_tags firefox/family/index.lang
 add_tags firefox/geolocation.lang
 add_tags firefox/hello-2016.lang
 add_tags firefox/hello.lang
+add_tags firefox/ios.lang
 add_tags firefox/new.lang
 add_tags firefox/os/tv.lang
 add_tags firefox/sync.lang
