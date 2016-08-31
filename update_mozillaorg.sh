@@ -18,12 +18,14 @@ mark_active firefox/desktop/customize.lang
 mark_active firefox/desktop/fast.lang
 mark_active firefox/desktop/index.lang
 mark_active firefox/desktop/trust.lang
+mark_active firefox/developer.lang
 mark_active firefox/family/index.lang
 mark_active firefox/features.lang
 mark_active firefox/hello-2016.lang
 mark_active firefox/hello-start-45.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/new/horizon.lang
+mark_active firefox/private-browsing.lang
 mark_active firefox/sendto.lang
 mark_active firefox/sync.lang
 mark_active firefox/tracking-protection-tour.lang
