@@ -14,6 +14,7 @@ mark_active firefox/android/index.lang
 mark_active firefox/australis/firefox_tour.lang
 mark_active firefox/australis/fx36_tour.lang
 mark_active firefox/channel.lang
+mark_active firefox/channel/index.lang
 mark_active firefox/desktop/customize.lang
 mark_active firefox/desktop/fast.lang
 mark_active firefox/desktop/index.lang
@@ -21,8 +22,6 @@ mark_active firefox/desktop/trust.lang
 mark_active firefox/developer.lang
 mark_active firefox/family/index.lang
 mark_active firefox/features.lang
-mark_active firefox/hello-2016.lang
-mark_active firefox/hello-start-45.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/new/horizon.lang
 mark_active firefox/private-browsing.lang
@@ -53,9 +52,8 @@ add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
 add_tags firefox/developer.lang
 add_tags firefox/family/index.lang
+add_tags firefox/features.lang
 add_tags firefox/geolocation.lang
-add_tags firefox/hello-2016.lang
-add_tags firefox/hello.lang
 add_tags firefox/ios.lang
 add_tags firefox/new.lang
 add_tags firefox/os/tv.lang
