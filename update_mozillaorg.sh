@@ -63,6 +63,7 @@ add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew_38.lang
 add_tags firefox/win10-welcome.lang
 add_tags mozorg/about.lang
+add_tags mozorg/about/history.lang
 add_tags mozorg/contribute/signup.lang
 add_tags mozorg/home/index.lang
 add_tags mozorg/mission.lang
