@@ -35,7 +35,7 @@ mark_active firefox/win10-welcome.lang
 mark_active mozorg/404.lang
 mark_active mozorg/about.lang
 mark_active mozorg/contribute/signup.lang
-mark_active mozorg/home/index.lang
+mark_active mozorg/home/index-2016.lang
 mark_active mozorg/mission.lang
 mark_active mozorg/plugincheck-redesign.lang
 mark_active mozorg/products.lang
@@ -65,7 +65,6 @@ add_tags firefox/win10-welcome.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
 add_tags mozorg/contribute/signup.lang
-add_tags mozorg/home/index.lang
 add_tags mozorg/mission.lang
 add_tags mozorg/plugincheck.lang
 add_tags thunderbird/start/release.lang
