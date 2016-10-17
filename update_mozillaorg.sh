@@ -56,7 +56,6 @@ add_tags firefox/family/index.lang
 add_tags firefox/features.lang
 add_tags firefox/geolocation.lang
 add_tags firefox/ios.lang
-add_tags firefox/new.lang
 add_tags firefox/os/tv.lang
 add_tags firefox/sync.lang
 add_tags firefox/tracking-protection-tour.lang
@@ -66,5 +65,4 @@ add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
 add_tags mozorg/contribute/signup.lang
 add_tags mozorg/mission.lang
-add_tags mozorg/plugincheck.lang
 add_tags thunderbird/start/release.lang
