@@ -56,6 +56,7 @@ add_tags firefox/family/index.lang
 add_tags firefox/features.lang
 add_tags firefox/geolocation.lang
 add_tags firefox/ios.lang
+add_tags firefox/new/horizon.lang
 add_tags firefox/os/tv.lang
 add_tags firefox/sync.lang
 add_tags firefox/tracking-protection-tour.lang
