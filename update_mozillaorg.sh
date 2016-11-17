@@ -39,6 +39,7 @@ mark_active mozorg/home/index-2016.lang
 mark_active mozorg/mission.lang
 mark_active mozorg/plugincheck-redesign.lang
 mark_active mozorg/products.lang
+mark_active mozorg/technology.lang
 mark_active privacy/principles.lang
 mark_active teach/smarton/index.lang
 mark_active thunderbird/channel.lang
