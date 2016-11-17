@@ -49,7 +49,6 @@ mark_active thunderbird/start/release.lang
 
 # Add tags
 add_tags firefox/android/index.lang
-add_tags firefox/channel.lang
 add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
 add_tags firefox/developer.lang
