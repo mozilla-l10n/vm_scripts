@@ -31,7 +31,6 @@ mark_active firefox/sync.lang
 mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/whatsnew_38.lang
 mark_active firefox/whatsnew_42.lang
-mark_active firefox/win10-welcome.lang
 mark_active mozorg/404.lang
 mark_active mozorg/about.lang
 mark_active mozorg/contribute/signup.lang
@@ -61,7 +60,6 @@ add_tags firefox/os/tv.lang
 add_tags firefox/sync.lang
 add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew_38.lang
-add_tags firefox/win10-welcome.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
 add_tags mozorg/contribute/signup.lang
