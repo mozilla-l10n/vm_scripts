@@ -49,6 +49,7 @@ mark_active thunderbird/start/release.lang
 
 # Add tags
 add_tags firefox/android/index.lang
+add_tags firefox/channel/index.lang
 add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
 add_tags firefox/developer.lang
@@ -65,5 +66,6 @@ add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
 add_tags mozorg/contribute/signup.lang
 add_tags mozorg/home/index-2016.lang
+add_tags mozorg/internet-health.lang
 add_tags mozorg/mission.lang
 add_tags thunderbird/start/release.lang
