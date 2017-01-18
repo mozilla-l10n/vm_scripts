@@ -13,3 +13,8 @@ alias mozmeld='meld ~/mozilla/repositories/mozilla_org/ ~/mozilla/repositories/p
 alias trunkst='cd ~/mozilla/repositories/mozilla_org/;git status'
 alias prodst='cd ~/mozilla/repositories/prod_mozillaorg/;git fetch trunk;git status'
 alias storest='cd ~/mozilla/repositories/appstores/;git status'
+
+# Langchecker aliases
+alias lang_update='~/mozilla/git/scripts/lang_update'
+alias add_tag='~/mozilla/git/scripts/add_tags'
+alias mark_active='~/mozilla/git/scripts/mark_active'
