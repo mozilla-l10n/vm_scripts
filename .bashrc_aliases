@@ -16,6 +16,6 @@ alias storest='cd ~/mozilla/repositories/appstores/;git status'
 
 # Langchecker aliases
 alias lang_update='~/mozilla/git/langchecker/app/scripts/lang_update'
-alias add_tag='~/mozilla/git/langchecker/app/scripts/add_tags'
+alias add_tags='~/mozilla/git/langchecker/app/scripts/add_tags'
 alias mark_active='~/mozilla/git/langchecker/app/scripts/mark_active'
 alias import_locamotion='~/mozilla/git/langchecker/app/scripts/import_locamotion'
