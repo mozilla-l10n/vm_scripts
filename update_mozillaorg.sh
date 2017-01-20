@@ -1,5 +1,9 @@
 #! /usr/bin/env bash
 
+# Load aliases
+shopt -s expand_aliases
+source ~/mozilla/git/scripts/.bashrc_aliases
+
 lang_update all 0 all
 trunkst
 
