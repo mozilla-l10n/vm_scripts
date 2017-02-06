@@ -57,6 +57,7 @@ add_tags firefox/channel/index.lang
 add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
 add_tags firefox/developer.lang
+add_tags firefox/dnt.lang
 add_tags firefox/family/index.lang
 add_tags firefox/features.lang
 add_tags firefox/geolocation.lang
@@ -73,4 +74,5 @@ add_tags mozorg/home/index-2016.lang
 add_tags mozorg/internet-health.lang
 add_tags mozorg/mission.lang
 add_tags mozorg/newsletters.lang
+add_tags thunderbird/features.lang
 add_tags thunderbird/start/release.lang
