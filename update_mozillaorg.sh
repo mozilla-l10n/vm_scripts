@@ -16,7 +16,6 @@ rm -rf templates
 mark_active firefox/accounts.lang
 mark_active firefox/android/index.lang
 mark_active firefox/australis/firefox_tour.lang
-mark_active firefox/australis/fx36_tour.lang
 mark_active firefox/channel.lang
 mark_active firefox/channel/index.lang
 mark_active firefox/desktop/customize.lang
@@ -64,7 +63,6 @@ add_tags firefox/geolocation.lang
 add_tags firefox/ios.lang
 add_tags firefox/new/horizon.lang
 add_tags firefox/sync.lang
-add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew_38.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
