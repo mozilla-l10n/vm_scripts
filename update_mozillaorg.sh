@@ -14,6 +14,7 @@ rm -rf templates
 
 # Mark active files
 mark_active firefox/accounts.lang
+mark_active firefox/all.lang
 mark_active firefox/android/index.lang
 mark_active firefox/australis/firefox_tour.lang
 mark_active firefox/channel.lang
