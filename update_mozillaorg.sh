@@ -63,6 +63,7 @@ add_tags firefox/features.lang
 add_tags firefox/geolocation.lang
 add_tags firefox/ios.lang
 add_tags firefox/new/horizon.lang
+add_tags firefox/private-browsing.lang
 add_tags firefox/sync.lang
 add_tags firefox/whatsnew_38.lang
 add_tags mozorg/about.lang
@@ -75,4 +76,3 @@ add_tags mozorg/mission.lang
 add_tags mozorg/newsletters.lang
 add_tags thunderbird/features.lang
 add_tags thunderbird/start/release.lang
-
