@@ -67,6 +67,7 @@ add_tags firefox/new/horizon.lang
 add_tags firefox/private-browsing.lang
 add_tags firefox/sync.lang
 add_tags firefox/whatsnew_38.lang
+add_tags firefox/whatsnew_50.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
 add_tags mozorg/contribute/signup.lang
