@@ -82,7 +82,6 @@ add_tags mozorg/contribute/signup.lang
 add_tags mozorg/home/index-2016.lang
 add_tags mozorg/internet-health.lang
 add_tags mozorg/internet-health/decentralization.lang
-add_tags mozorg/internet-health/privacy-security.lang
 add_tags mozorg/mission.lang
 add_tags mozorg/newsletters.lang
 add_tags thunderbird/features.lang
