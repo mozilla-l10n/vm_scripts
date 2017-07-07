@@ -13,6 +13,9 @@ trunkst
 rm -rf templates
 rm -rf pseudo
 
+# Run script to activate pages depending on firefox/shared.lang
+~/mozilla/git/langchecker/app/scripts/activate_firefox_shared
+
 # Mark active files
 mark_active firefox/accounts.lang
 mark_active firefox/all.lang
