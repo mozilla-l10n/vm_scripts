@@ -32,7 +32,7 @@ mark_active firefox/family/index.lang
 mark_active firefox/features.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/ios.lang
-mark_active firefox/new/horizon.lang
+mark_active firefox/new/onboarding.lang
 mark_active firefox/private-browsing.lang
 mark_active firefox/sendto.lang
 mark_active firefox/sync.lang
