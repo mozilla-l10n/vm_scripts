@@ -47,6 +47,7 @@ mark_active mozorg/home/index-2016.lang
 mark_active mozorg/internet-health.lang
 mark_active mozorg/mission.lang
 mark_active mozorg/plugincheck-redesign.lang
+mark_active mozorg/plugincheck-update.lang
 mark_active mozorg/products.lang
 mark_active mozorg/technology.lang
 mark_active privacy/principles.lang
