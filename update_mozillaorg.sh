@@ -66,6 +66,8 @@ add_tags firefox/developer.lang
 add_tags firefox/dnt.lang
 add_tags firefox/family/index.lang
 add_tags firefox/features.lang
+add_tags firefox/features/index.lang
+add_tags firefox/features/password-manager.lang
 add_tags firefox/geolocation.lang
 add_tags firefox/ios.lang
 add_tags firefox/new/horizon.lang
