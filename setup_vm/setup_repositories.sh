@@ -62,8 +62,7 @@ cp .env-dist .env
 ln -s ~/mozilla/repositories/mozilla_org locale
 virtualenv -p python2.7 venv
 source venv/bin/activate
-bin/pipstrap.py
 pip install -r requirements/test.txt
-deactivate
 bin/sync_all
+deactivate
 npm install
