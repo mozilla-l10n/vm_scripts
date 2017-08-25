@@ -19,7 +19,6 @@ rm -rf pseudo
 # Mark active files
 mark_active firefox/accounts.lang
 mark_active firefox/all.lang
-mark_active firefox/android/index.lang
 mark_active firefox/australis/firefox_tour.lang
 mark_active firefox/channel.lang
 mark_active firefox/channel/index.lang
@@ -27,11 +26,7 @@ mark_active firefox/desktop/customize.lang
 mark_active firefox/desktop/fast.lang
 mark_active firefox/desktop/index.lang
 mark_active firefox/desktop/trust.lang
-mark_active firefox/developer.lang
-mark_active firefox/family/index.lang
-mark_active firefox/features.lang
 mark_active firefox/installer-help.lang
-mark_active firefox/ios.lang
 mark_active firefox/new/onboarding.lang
 mark_active firefox/private-browsing.lang
 mark_active firefox/sendto.lang
@@ -58,18 +53,13 @@ mark_active thunderbird/index.lang
 mark_active thunderbird/start/release.lang
 
 # Add tags
-add_tags firefox/android/index.lang
 add_tags firefox/channel/index.lang
 add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
-add_tags firefox/developer.lang
 add_tags firefox/dnt.lang
-add_tags firefox/family/index.lang
-add_tags firefox/features.lang
 add_tags firefox/features/index.lang
 add_tags firefox/features/password-manager.lang
 add_tags firefox/geolocation.lang
-add_tags firefox/ios.lang
 add_tags firefox/new/horizon.lang
 add_tags firefox/private-browsing.lang
 add_tags firefox/products/android.lang
