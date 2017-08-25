@@ -57,13 +57,16 @@ add_tags firefox/channel/index.lang
 add_tags firefox/desktop/index.lang
 add_tags firefox/desktop/trust.lang
 add_tags firefox/dnt.lang
+add_tags firefox/features/independent.lang
 add_tags firefox/features/index.lang
 add_tags firefox/features/password-manager.lang
 add_tags firefox/geolocation.lang
 add_tags firefox/new/horizon.lang
+add_tags firefox/new/onboarding.lang
 add_tags firefox/private-browsing.lang
 add_tags firefox/products/android.lang
 add_tags firefox/products/desktop.lang
+add_tags firefox/products/developer.lang
 add_tags firefox/products/focus.lang
 add_tags firefox/products/ios.lang
 add_tags firefox/sync.lang
