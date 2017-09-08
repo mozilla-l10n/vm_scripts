@@ -22,19 +22,15 @@ mark_active firefox/all.lang
 mark_active firefox/australis/firefox_tour.lang
 mark_active firefox/channel.lang
 mark_active firefox/channel/index.lang
-mark_active firefox/desktop/customize.lang
-mark_active firefox/desktop/fast.lang
-mark_active firefox/desktop/index.lang
-mark_active firefox/desktop/trust.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/new/onboarding.lang
 mark_active firefox/private-browsing.lang
 mark_active firefox/sendto.lang
-mark_active firefox/sync.lang
 mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/whatsnew_38.lang
 mark_active firefox/whatsnew_42.lang
 mark_active firefox/whatsnew_50.lang
+mark_active firefox/whatsnew_56.lang
 mark_active mozorg/404.lang
 mark_active mozorg/about.lang
 mark_active mozorg/contribute/signup.lang
@@ -54,14 +50,12 @@ mark_active thunderbird/start/release.lang
 
 # Add tags
 add_tags firefox/channel/index.lang
-add_tags firefox/desktop/index.lang
-add_tags firefox/desktop/trust.lang
 add_tags firefox/dnt.lang
 add_tags firefox/features/independent.lang
 add_tags firefox/features/index.lang
 add_tags firefox/features/password-manager.lang
+add_tags firefox/features/send-tabs.lang
 add_tags firefox/geolocation.lang
-add_tags firefox/new/horizon.lang
 add_tags firefox/new/onboarding.lang
 add_tags firefox/private-browsing.lang
 add_tags firefox/products/android.lang
@@ -69,7 +63,7 @@ add_tags firefox/products/desktop.lang
 add_tags firefox/products/developer.lang
 add_tags firefox/products/focus.lang
 add_tags firefox/products/ios.lang
-add_tags firefox/sync.lang
+add_tags firefox/sendto.lang
 add_tags firefox/whatsnew_38.lang
 add_tags firefox/whatsnew_50.lang
 add_tags mozorg/about.lang
