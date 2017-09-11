@@ -58,9 +58,6 @@ update_repository /home/l10n/mozilla/git/stores_l10n stores_l10n
 update_repository /home/l10n/mozilla/git/bedrock Bedrock
 update_repository /home/l10n/mozilla/git/scripts "VM Scripts"
 
-# Update l10n repositories
-update_repository /home/l10n/mozilla/repositories/locamotion "GIT mozilla-lang "
-
 echogreen "Updating Langchecker sources"
 /home/l10n/mozilla/git/langchecker/app/scripts/update_sources
 

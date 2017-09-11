@@ -13,7 +13,6 @@ git clone https://github.com/mozilla-l10n/stores_l10n
 ln -s ~/mozilla/repositories/appstores ~/mozilla/git/stores_l10n/locales
 
 git clone https://github.com/mozilla/bedrock
-git clone https://github.com/translate/mozilla-lang/ ~/mozilla/repositories/locamotion
 
 echo "Setting up mozilla.org production"
 git clone https://github.com/mozilla-l10n/bedrock-l10n ~/mozilla/repositories/prod_mozillaorg
