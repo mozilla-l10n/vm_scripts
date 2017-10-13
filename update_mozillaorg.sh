@@ -22,8 +22,8 @@ mark_active firefox/all.lang
 mark_active firefox/australis/firefox_tour.lang
 mark_active firefox/channel.lang
 mark_active firefox/channel/index.lang
+mark_active firefox/firefox-quantum.lang
 mark_active firefox/installer-help.lang
-mark_active firefox/new/onboarding.lang
 mark_active firefox/sendto.lang
 mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/whatsnew_38.lang
@@ -55,7 +55,6 @@ add_tags firefox/features/index.lang
 add_tags firefox/features/password-manager.lang
 add_tags firefox/features/send-tabs.lang
 add_tags firefox/geolocation.lang
-add_tags firefox/new/onboarding.lang
 add_tags firefox/products/android.lang
 add_tags firefox/products/desktop.lang
 add_tags firefox/products/developer.lang
