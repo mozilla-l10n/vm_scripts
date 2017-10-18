@@ -22,7 +22,6 @@ mark_active firefox/all.lang
 mark_active firefox/australis/firefox_tour.lang
 mark_active firefox/channel.lang
 mark_active firefox/channel/index.lang
-mark_active firefox/firefox-quantum.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/new/quantum.lang
 mark_active firefox/sendto.lang
