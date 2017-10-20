@@ -23,6 +23,7 @@ mark_active firefox/australis/firefox_tour.lang
 mark_active firefox/channel.lang
 mark_active firefox/channel/index.lang
 mark_active firefox/installer-help.lang
+mark_active firefox/mobile.lang
 mark_active firefox/new/quantum.lang
 mark_active firefox/sendto.lang
 mark_active firefox/tracking-protection-tour.lang
