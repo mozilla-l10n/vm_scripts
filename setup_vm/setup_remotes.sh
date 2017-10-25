@@ -37,10 +37,6 @@ echo "Update remotes for appstores..."
 cd ~/mozilla/repositories/appstores
 git remote set-url origin git@github.com:mozilla-l10n/appstores.git
 
-echo "Update remotes for fhr-l10n..."
-cd ~/mozilla/repositories/fhr-l10n
-git remote set-url origin git@github.com:mozilla-l10n/fhr-l10n.git
-
 echo "Update remotes for engagement-l10n..."
 cd ~/mozilla/repositories/engagement-l10n
 git remote set-url origin git@github.com:mozilla-l10n/engagement-l10n.git
