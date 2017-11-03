@@ -37,6 +37,7 @@ mark_active mozorg/404.lang
 mark_active mozorg/about.lang
 mark_active mozorg/contribute/signup.lang
 mark_active mozorg/home/index-2016.lang
+mark_active mozorg/home/index-quantum.lang
 mark_active mozorg/internet-health.lang
 mark_active mozorg/mission.lang
 mark_active mozorg/plugincheck-redesign.lang
