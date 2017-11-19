@@ -60,6 +60,8 @@ add_tags firefox/features/index.lang
 add_tags firefox/features/password-manager.lang
 add_tags firefox/features/send-tabs.lang
 add_tags firefox/geolocation.lang
+add_tags firefox/hub/home-quantum.lang
+add_tags firefox/new/quantum.lang
 add_tags firefox/products/android.lang
 add_tags firefox/products/desktop.lang
 add_tags firefox/products/developer.lang
