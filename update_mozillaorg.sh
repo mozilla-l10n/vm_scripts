@@ -29,9 +29,7 @@ mark_active firefox/nightly_firstrun.lang
 mark_active firefox/sendto.lang
 mark_active firefox/sync.lang
 mark_active firefox/tracking-protection-tour.lang
-mark_active firefox/whatsnew_38.lang
-mark_active firefox/whatsnew_42.lang
-mark_active firefox/whatsnew_50.lang
+mark_active firefox/whatsnew_.lang
 mark_active firefox/whatsnew_56.lang
 mark_active firefox/whatsnew_57.lang
 mark_active mozorg/404.lang
@@ -69,8 +67,7 @@ add_tags firefox/products/developer-quantum.lang
 add_tags firefox/products/focus.lang
 add_tags firefox/products/ios.lang
 add_tags firefox/sendto.lang
-add_tags firefox/whatsnew_38.lang
-add_tags firefox/whatsnew_50.lang
+add_tags firefox/whatsnew.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
 add_tags mozorg/contribute/signup.lang
