@@ -59,6 +59,7 @@ add_tags firefox/features/password-manager.lang
 add_tags firefox/features/send-tabs.lang
 add_tags firefox/geolocation.lang
 add_tags firefox/hub/home-quantum.lang
+add_tags firefox/mobile.lang
 add_tags firefox/new/quantum.lang
 add_tags firefox/products/android.lang
 add_tags firefox/products/desktop.lang
@@ -67,6 +68,7 @@ add_tags firefox/products/developer-quantum.lang
 add_tags firefox/products/focus.lang
 add_tags firefox/products/ios.lang
 add_tags firefox/sendto.lang
+add_tags firefox/sync.lang
 add_tags firefox/whatsnew.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
