@@ -20,7 +20,6 @@ rm -rf pseudo
 mark_active firefox/accounts.lang
 mark_active firefox/all.lang
 mark_active firefox/australis/firefox_tour.lang
-mark_active firefox/channel.lang
 mark_active firefox/channel/index.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/mobile.lang
@@ -32,12 +31,12 @@ mark_active firefox/whatsnew.lang
 mark_active firefox/whatsnew_56.lang
 mark_active firefox/whatsnew_57.lang
 mark_active mozorg/404.lang
+mark_active mozorg/500.lang
 mark_active mozorg/about.lang
 mark_active mozorg/contribute/signup.lang
 mark_active mozorg/home/index-quantum.lang
 mark_active mozorg/internet-health.lang
 mark_active mozorg/mission.lang
-mark_active mozorg/plugincheck-redesign.lang
 mark_active mozorg/plugincheck-update.lang
 mark_active mozorg/products.lang
 mark_active mozorg/technology.lang
