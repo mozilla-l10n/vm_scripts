@@ -31,6 +31,7 @@ mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/whatsnew.lang
 mark_active firefox/whatsnew_56.lang
 mark_active firefox/whatsnew_57.lang
+mark_active firefox/whatsnew_59.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
 mark_active mozorg/about.lang
