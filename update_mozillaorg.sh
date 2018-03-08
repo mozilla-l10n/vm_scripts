@@ -52,13 +52,11 @@ mark_active thunderbird/start/release.lang
 # Add tags
 add_tags firefox/all.lang
 add_tags firefox/channel/index.lang
-add_tags firefox/dnt.lang
 add_tags firefox/features/independent.lang
 add_tags firefox/features/index.lang
 add_tags firefox/features/password-manager.lang
 add_tags firefox/features/send-tabs.lang
 add_tags firefox/nightly_whatsnew.lang
-add_tags firefox/geolocation.lang
 add_tags firefox/hub/home-quantum.lang
 add_tags firefox/mobile.lang
 add_tags firefox/new/quantum.lang
