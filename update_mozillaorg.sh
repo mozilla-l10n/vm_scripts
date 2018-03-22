@@ -65,6 +65,7 @@ add_tags firefox/sendto.lang
 add_tags firefox/whatsnew.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
+add_tags mozorg/about/manifesto.lang
 add_tags mozorg/contribute/signup.lang
 add_tags mozorg/home/index-quantum.lang
 add_tags mozorg/internet-health/decentralization.lang
