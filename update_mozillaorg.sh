@@ -20,6 +20,7 @@ rm -rf pseudo
 mark_active firefox/accounts.lang
 mark_active firefox/all.lang
 mark_active firefox/australis/firefox_tour.lang
+mark_active firefox/facebookcontainer/index.lang
 mark_active firefox/channel/index.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/mobile.lang
