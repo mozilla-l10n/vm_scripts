@@ -45,10 +45,6 @@ mark_active mozorg/products.lang
 mark_active mozorg/technology.lang
 mark_active privacy/principles.lang
 mark_active teach/smarton/index.lang
-mark_active thunderbird/channel.lang
-mark_active thunderbird/features.lang
-mark_active thunderbird/index.lang
-mark_active thunderbird/start/release.lang
 
 # Add tags
 add_tags firefox/all.lang
@@ -74,5 +70,3 @@ add_tags mozorg/internet-health/index.lang
 add_tags mozorg/mission.lang
 add_tags mozorg/newsletters.lang
 add_tags mozorg/technology.lang
-add_tags thunderbird/features.lang
-add_tags thunderbird/start/release.lang
