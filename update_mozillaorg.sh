@@ -44,7 +44,6 @@ mark_active mozorg/plugincheck-update.lang
 mark_active mozorg/products.lang
 mark_active mozorg/technology.lang
 mark_active privacy/principles.lang
-mark_active teach/smarton/index.lang
 
 # Add tags
 add_tags firefox/all.lang
