@@ -44,6 +44,7 @@ mark_active mozorg/mission.lang
 mark_active mozorg/plugincheck-update.lang
 mark_active mozorg/products.lang
 mark_active mozorg/technology.lang
+mark_active privacy/faq.lang
 mark_active privacy/principles.lang
 
 # Add tags
