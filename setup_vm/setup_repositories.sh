@@ -61,7 +61,7 @@ cp .env-dist .env
 ln -s ~/mozilla/repositories/mozilla_org locale
 virtualenv -p python2.7 venv
 source venv/bin/activate
-pip install -r requirements/test.txt
+pip install -r requirements/dev.txt
 bin/sync_all
 deactivate
 npm install
