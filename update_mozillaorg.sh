@@ -63,6 +63,7 @@ add_tags firefox/mobile.lang
 add_tags firefox/new/quantum.lang
 add_tags firefox/products/developer-quantum.lang
 add_tags firefox/sendto.lang
+add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
