@@ -76,3 +76,4 @@ add_tags mozorg/internet-health/index.lang
 add_tags mozorg/mission.lang
 add_tags mozorg/newsletters.lang
 add_tags mozorg/technology.lang
+add_tags privacy/faq.lang
