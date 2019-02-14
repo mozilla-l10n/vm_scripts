@@ -37,6 +37,7 @@ mark_active firefox/whatsnew_57.lang
 mark_active firefox/whatsnew_59.lang
 mark_active firefox/whatsnew_61.lang
 mark_active firefox/whatsnew_63.lang
+mark_active firefox/whatsnew_66.lang
 mark_active foundation/index.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
@@ -79,3 +80,4 @@ add_tags mozorg/mission.lang
 add_tags mozorg/newsletters.lang
 add_tags mozorg/technology.lang
 add_tags privacy/faq.lang
+add_tags privacy/index.lang
