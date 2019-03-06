@@ -15,7 +15,7 @@ npm install gulp-cli -g
 
 # Install Atom
 echo "Installing Atom..."
-wget https://github.com/atom/atom/releases/download/v1.13.0/atom-amd64.deb -qO tmp.mk && dpkg -i tmp.mk; rm tmp.mk
+wget https://github.com/atom/atom/releases/download/v1.34.0/atom-amd64.deb -qO tmp.mk && dpkg -i tmp.mk; rm tmp.mk
 
 su $SUDO_USER <<'EOF'
     mkdir -p ~/mozilla/git/
