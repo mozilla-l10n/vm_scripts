@@ -42,6 +42,7 @@ mark_active foundation/index.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
 mark_active mozorg/about.lang
+mark_active mozorg/about-2019.lang
 mark_active mozorg/contribute/signup.lang
 mark_active mozorg/home/index-quantum.lang
 mark_active mozorg/internet-health.lang
@@ -56,6 +57,7 @@ mark_active privacy/principles.lang
 # Add tags
 add_tags firefox/all.lang
 add_tags firefox/accounts-2018.lang
+add_tags firefox/campaign.lang
 add_tags firefox/channel/index.lang
 add_tags firefox/features/independent.lang
 add_tags firefox/features/index.lang
@@ -69,6 +71,7 @@ add_tags firefox/products/developer-quantum.lang
 add_tags firefox/sendto.lang
 add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew.lang
+add_tags firefox/whatsnew_66.lang
 add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
 add_tags mozorg/about/manifesto.lang
