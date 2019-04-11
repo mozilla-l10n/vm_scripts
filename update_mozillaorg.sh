@@ -38,6 +38,7 @@ mark_active firefox/whatsnew_59.lang
 mark_active firefox/whatsnew_61.lang
 mark_active firefox/whatsnew_63.lang
 mark_active firefox/whatsnew_66.lang
+mark_active firefox/whatsnew_67.lang
 mark_active foundation/index.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
