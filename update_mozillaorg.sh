@@ -44,6 +44,7 @@ mark_active mozorg/404.lang
 mark_active mozorg/500.lang
 mark_active mozorg/about.lang
 mark_active mozorg/about-2019.lang
+mark_active mozorg/browser-history.lang 	
 mark_active mozorg/contribute/signup.lang
 mark_active mozorg/home/index-quantum.lang
 mark_active mozorg/internet-health.lang
@@ -54,6 +55,7 @@ mark_active mozorg/technology.lang
 mark_active privacy/faq.lang
 mark_active privacy/index.lang
 mark_active privacy/principles.lang
+
 
 # Add tags
 add_tags firefox/all.lang
