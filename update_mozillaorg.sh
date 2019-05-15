@@ -26,6 +26,7 @@ mark_active firefox/channel/index.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/mobile.lang
 mark_active firefox/new/quantum.lang
+mark_active firefox/new/trailhead.lang
 mark_active firefox/nightly_firstrun.lang
 mark_active firefox/profile-per-install.lang 	
 mark_active firefox/sendto.lang
