@@ -42,7 +42,8 @@ function clean_branches()
 }
 
 # Remove branches from code repositories
-clean_branches /home/l10n/mozilla/git/langchecker Langchecker
-clean_branches /home/l10n/mozilla/git/webdashboard Webdashboard
-clean_branches /home/l10n/mozilla/git/stores_l10n stores_l10n
-clean_branches /home/l10n/mozilla/git/bedrock Bedrock
+current_user=$(whoami)
+clean_branches "/home/${current_user}/mozilla/git/langchecker" Langchecker
+clean_branches "/home/${current_user}/mozilla/git/webdashboard" Webdashboard
+clean_branches "/home/${current_user}/mozilla/git/stores_l10n" stores_l10n
+clean_branches "/home/${current_user}/mozilla/git/bedrock" Bedrock

@@ -23,13 +23,14 @@ mark_active firefox/accounts-2018.lang
 mark_active firefox/accounts-2019.lang
 mark_active firefox/australis/firefox_tour.lang
 mark_active firefox/facebookcontainer/index.lang
+mark_active firefox/campaign-trailhead.lang
 mark_active firefox/channel/index.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/mobile.lang
 mark_active firefox/new/quantum.lang
 mark_active firefox/new/trailhead.lang
 mark_active firefox/nightly_firstrun.lang
-mark_active firefox/profile-per-install.lang 	
+mark_active firefox/profile-per-install.lang
 mark_active firefox/sendto.lang
 mark_active firefox/switch.lang
 mark_active firefox/tracking-protection-tour.lang
@@ -47,7 +48,7 @@ mark_active mozorg/404.lang
 mark_active mozorg/500.lang
 mark_active mozorg/about.lang
 mark_active mozorg/about-2019.lang
-mark_active mozorg/browser-history.lang 	
+mark_active mozorg/browser-history.lang
 mark_active mozorg/contribute/signup.lang
 mark_active mozorg/home/index-quantum.lang
 mark_active mozorg/internet-health.lang

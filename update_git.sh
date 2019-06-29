@@ -51,17 +51,19 @@ function update_repository()
   fi
 }
 
+current_user=$(whoami)
+
 # Update Code repositories
-update_repository /home/l10n/mozilla/git/langchecker Langchecker
-update_repository /home/l10n/mozilla/git/webdashboard Webdashboard
-update_repository /home/l10n/mozilla/git/stores_l10n stores_l10n
-update_repository /home/l10n/mozilla/git/bedrock Bedrock
-update_repository /home/l10n/mozilla/git/scripts "VM Scripts"
+update_repository "/home/${current_user}/mozilla/git/langchecker" Langchecker
+update_repository "/home/${current_user}/mozilla/git/webdashboard" Webdashboard
+update_repository "/home/${current_user}/mozilla/git/stores_l10n" stores_l10n
+update_repository "/home/${current_user}/mozilla/git/bedrock" Bedrock
+update_repository "/home/${current_user}/mozilla/git/scripts" "VM Scripts"
 
 echogreen "Updating Langchecker sources"
-/home/l10n/mozilla/git/langchecker/app/scripts/update_sources
+"/home/${current_user}/mozilla/git/langchecker/app/scripts/update_sources"
 
-update_repository /home/l10n/mozilla/repositories/prod_mozillaorg "mozilla.org prod"
+update_repository "/home/${current_user}/mozilla/repositories/prod_mozillaorg" "mozilla.org prod"
 # Also fetch trunk for mozilla.org prod
-cd /home/l10n/mozilla/repositories/prod_mozillaorg
+cd "/home/${current_user}/mozilla/repositories/prod_mozillaorg"
 git fetch trunk

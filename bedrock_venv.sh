@@ -18,8 +18,10 @@ function echoyellow() {
     echo -e "$YELLOW$*$NORMAL"
 }
 
+current_user=$(whoami)
+
 echogreen "Removing existing venv"
-cd /home/l10n/mozilla/git/bedrock
+cd "/home/${current_user}/mozilla/git/bedrock"
 rm -rf venv
 
 echogreen "Create new venv"
