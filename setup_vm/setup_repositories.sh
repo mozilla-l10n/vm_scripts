@@ -62,6 +62,7 @@ ln -s ~/mozilla/repositories/mozilla_org locale
 virtualenv -p python2.7 venv
 source venv/bin/activate
 pip install -r requirements/dev.txt
-bin/sync_all
+bin/bootstrap.sh
 deactivate
-npm install
+yarn
+

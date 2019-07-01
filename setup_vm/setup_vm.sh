@@ -8,10 +8,15 @@ then
 fi
 
 # Install required packages
-apt install -y git php php-xml apache2 libapache2-mod-php php-cli php-mbstring python-pip terminator libxml2-dev libxslt-dev libz-dev npm nodejs gconf2 libcurl4 meld
+apt install -y git php php-xml apache2 libapache2-mod-php php-cli php-mbstring python-pip terminator libxml2-dev libxslt-dev libz-dev npm nodejs gconf2 libcurl4 meld virtualenv curl
 
-# Install gulp globally for Bedrock
+# Install gulp globally for Bedrock and yarn
+echo "Installing gulp..."
 npm install gulp-cli -g
+
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
+apt update && apt install yarn -y
 
 # Install Atom
 echo "Installing Atom..."
