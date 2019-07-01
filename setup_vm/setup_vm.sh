@@ -8,7 +8,7 @@ then
 fi
 
 # Install required packages
-apt install -y git php php-xml apache2 libapache2-mod-php php-cli php-mbstring python-pip terminator libxml2-dev libxslt-dev libz-dev npm nodejs gconf2 libcurl4
+apt install -y git php php-xml apache2 libapache2-mod-php php-cli php-mbstring python-pip terminator libxml2-dev libxslt-dev libz-dev npm nodejs gconf2 libcurl4 meld
 
 # Install gulp globally for Bedrock
 npm install gulp-cli -g
