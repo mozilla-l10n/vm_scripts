@@ -22,9 +22,10 @@ mark_active firefox/all.lang
 mark_active firefox/accounts-2018.lang
 mark_active firefox/accounts-2019.lang
 mark_active firefox/australis/firefox_tour.lang
-mark_active firefox/facebookcontainer/index.lang
+mark_active firefox/best-browser.lang
 mark_active firefox/campaign-trailhead.lang
 mark_active firefox/channel/index.lang
+mark_active firefox/facebookcontainer/index.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/mobile.lang
 mark_active firefox/new/quantum.lang
