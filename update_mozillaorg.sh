@@ -19,6 +19,7 @@ rm -rf pseudo
 # Mark active files
 mark_active firefox/accounts.lang
 mark_active firefox/all.lang
+mark_active firefox/all-unified.lang
 mark_active firefox/accounts-2018.lang
 mark_active firefox/accounts-2019.lang
 mark_active firefox/australis/firefox_tour.lang
