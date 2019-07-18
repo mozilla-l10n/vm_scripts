@@ -79,6 +79,7 @@ add_tags firefox/nightly_whatsnew.lang
 add_tags firefox/hub/home-quantum.lang
 add_tags firefox/mobile.lang
 add_tags firefox/new/quantum.lang
+add_tags firefox/new/trailhead.lang
 add_tags firefox/products/developer-quantum.lang
 add_tags firefox/sendto.lang
 add_tags firefox/tracking-protection-tour.lang
