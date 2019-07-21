@@ -17,13 +17,11 @@ rm -rf pseudo
 ~/mozilla/git/langchecker/app/scripts/activate_firefox_shared
 
 # Mark active files
-mark_active firefox/accounts.lang
-mark_active firefox/all.lang
-mark_active firefox/all-unified.lang
-mark_active firefox/adblocker.lang
 mark_active firefox/accounts-2018.lang
 mark_active firefox/accounts-2019.lang
-mark_active firefox/australis/firefox_tour.lang
+mark_active firefox/adblocker.lang
+mark_active firefox/all.lang
+mark_active firefox/all-unified.lang
 mark_active firefox/best-browser.lang
 mark_active firefox/campaign-trailhead.lang
 mark_active firefox/channel/index.lang
@@ -49,7 +47,6 @@ mark_active firefox/whatsnew_67.0.5.lang
 mark_active foundation/index.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
-mark_active mozorg/about.lang
 mark_active mozorg/about-2019.lang
 mark_active mozorg/browser-history.lang
 mark_active mozorg/contribute/signup.lang
@@ -85,7 +82,6 @@ add_tags firefox/sendto.lang
 add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew.lang
 add_tags firefox/whatsnew_66.lang
-add_tags mozorg/about.lang
 add_tags mozorg/about/history.lang
 add_tags mozorg/about/manifesto.lang
 add_tags mozorg/contribute/signup.lang
