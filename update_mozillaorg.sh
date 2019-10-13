@@ -17,7 +17,6 @@ rm -rf pseudo
 ~/mozilla/git/langchecker/app/scripts/activate_firefox_shared
 
 # Mark active files
-mark_active firefox/accounts-2018.lang
 mark_active firefox/accounts-2019.lang
 mark_active firefox/adblocker.lang
 mark_active firefox/all.lang
