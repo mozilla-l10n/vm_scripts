@@ -26,6 +26,7 @@ mark_active firefox/best-browser.lang
 mark_active firefox/campaign-trailhead.lang
 mark_active firefox/channel/index.lang
 mark_active firefox/facebookcontainer/index.lang
+mark_active firefox/home-master.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/mobile.lang
 mark_active firefox/new/quantum.lang
@@ -37,6 +38,7 @@ mark_active firefox/sendto.lang
 mark_active firefox/switch.lang
 mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/welcome/page1.lang
+mark_active firefox/welcome/page2.lang
 mark_active firefox/whatsnew.lang
 mark_active firefox/whatsnew_56.lang
 mark_active firefox/whatsnew_57.lang
