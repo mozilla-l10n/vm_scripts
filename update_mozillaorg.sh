@@ -69,7 +69,6 @@ mark_active privacy/principles.lang
 
 # Add tags
 add_tags firefox/all.lang
-add_tags firefox/accounts-2018.lang
 add_tags firefox/accounts-2019.lang
 add_tags firefox/campaign.lang
 add_tags firefox/channel/index.lang
