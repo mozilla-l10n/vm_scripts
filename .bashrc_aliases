@@ -12,7 +12,6 @@ alias mozup='~/mozilla/git/scripts/update_mozillaorg.sh'
 alias mozmeld='meld ~/mozilla/repositories/mozilla_org/ ~/mozilla/repositories/prod_mozillaorg/'
 alias trunkst='cd ~/mozilla/repositories/mozilla_org/;git status'
 alias prodst='cd ~/mozilla/repositories/prod_mozillaorg/;git fetch trunk;git status'
-alias storest='cd ~/mozilla/repositories/appstores/;git status'
 
 # Langchecker aliases
 alias lang_update='~/mozilla/git/langchecker/app/scripts/lang_update'

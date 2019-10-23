@@ -45,5 +45,4 @@ function clean_branches()
 current_user=$(whoami)
 clean_branches "/home/${current_user}/mozilla/git/langchecker" Langchecker
 clean_branches "/home/${current_user}/mozilla/git/webdashboard" Webdashboard
-clean_branches "/home/${current_user}/mozilla/git/stores_l10n" stores_l10n
 clean_branches "/home/${current_user}/mozilla/git/bedrock" Bedrock

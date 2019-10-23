@@ -9,8 +9,6 @@ echo "Cloning repositories"
 cd ~/mozilla/git/
 git clone https://github.com/mozilla-l10n/langchecker
 git clone https://github.com/mozilla-l10n/webdashboard
-git clone https://github.com/mozilla-l10n/stores_l10n
-ln -s ~/mozilla/repositories/appstores ~/mozilla/git/stores_l10n/locales
 
 git clone https://github.com/mozilla/bedrock
 
@@ -25,15 +23,12 @@ mkdir -p ~/mozilla/web/
 cd ~/mozilla/web/
 ln -s ~/mozilla/git/langchecker/web/ langchecker
 ln -s ~/mozilla/git/webdashboard/web webdashboard
-ln -s ~/mozilla/git/stores_l10n/web/ stores_l10n
 
 # Installing dependencies
 echo "Installing Composer dependencies..."
 cd ~/mozilla/git/langchecker
 composer install
 cd ~/mozilla/git/webdashboard
-composer install
-cd ~/mozilla/git/stores_l10n
 composer install
 
 # Setting up aliases

@@ -56,7 +56,6 @@ current_user=$(whoami)
 # Update Code repositories
 update_repository "/home/${current_user}/mozilla/git/langchecker" Langchecker
 update_repository "/home/${current_user}/mozilla/git/webdashboard" Webdashboard
-update_repository "/home/${current_user}/mozilla/git/stores_l10n" stores_l10n
 update_repository "/home/${current_user}/mozilla/git/bedrock" Bedrock
 update_repository "/home/${current_user}/mozilla/git/scripts" "VM Scripts"
 
