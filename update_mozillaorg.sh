@@ -77,7 +77,6 @@ add_tags firefox/products/developer-quantum.lang
 add_tags firefox/sendto.lang
 add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew.lang
-add_tags firefox/whatsnew_66.lang
 add_tags mozorg/about/manifesto.lang
 add_tags mozorg/home/index-quantum.lang
 add_tags mozorg/internet-health/decentralization.lang
