@@ -28,6 +28,7 @@ mark_active firefox/facebookcontainer/index.lang
 mark_active firefox/home-master.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/mobile.lang
+mark_active firefox/mobile-2019.lang
 mark_active firefox/new/quantum.lang
 mark_active firefox/new/trailhead.lang
 mark_active firefox/nightly_firstrun.lang
