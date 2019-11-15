@@ -39,6 +39,7 @@ mark_active firefox/switch.lang
 mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/welcome/page1.lang
 mark_active firefox/welcome/page2.lang
+mark_active firefox/welcome/page3.lang
 mark_active firefox/whatsnew.lang
 mark_active firefox/whatsnew_67.lang
 mark_active firefox/whatsnew_67.0.5.lang
