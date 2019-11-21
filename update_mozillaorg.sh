@@ -46,6 +46,7 @@ mark_active firefox/whatsnew_67.lang
 mark_active firefox/whatsnew_67.0.5.lang
 mark_active firefox/whatsnew_69.lang
 mark_active firefox/whatsnew_70.lang 	
+mark_active firefox/whatsnew_71.lang 	
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
 mark_active mozorg/about-2019.lang
