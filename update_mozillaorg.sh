@@ -19,7 +19,6 @@ rm -rf pseudo
 # Mark active files
 mark_active firefox/accounts-2019.lang
 mark_active firefox/adblocker.lang
-mark_active firefox/all.lang
 mark_active firefox/all-unified.lang
 mark_active firefox/best-browser.lang
 mark_active firefox/campaign-trailhead.lang
@@ -47,6 +46,7 @@ mark_active firefox/whatsnew_67.0.5.lang
 mark_active firefox/whatsnew_69.lang
 mark_active firefox/whatsnew_70.lang 	
 mark_active firefox/whatsnew_71.lang 	
+mark_active firefox/windows-64-bit.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
 mark_active mozorg/about-2019.lang
@@ -64,10 +64,11 @@ mark_active privacy/principles.lang
 
 
 # Add tags
-add_tags firefox/all.lang
 add_tags firefox/accounts-2019.lang
 add_tags firefox/campaign.lang
+add_tags firefox/campaign-trailhead.lang
 add_tags firefox/channel/index.lang
+add_tags firefox/products/developer-quantum.lang
 add_tags firefox/features/independent.lang
 add_tags firefox/features/index.lang
 add_tags firefox/features/password-manager.lang
