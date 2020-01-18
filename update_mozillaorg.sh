@@ -35,6 +35,7 @@ mark_active firefox/nightly_firstrun.lang
 mark_active firefox/products/lockwise.lang
 mark_active firefox/profile-per-install.lang
 mark_active firefox/sendto.lang
+mark_active firefox/set-default-thanks.lang
 mark_active firefox/switch.lang
 mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/welcome/page1.lang
@@ -47,11 +48,15 @@ mark_active firefox/whatsnew_67.lang
 mark_active firefox/whatsnew_67.0.5.lang
 mark_active firefox/whatsnew_69.lang
 mark_active firefox/whatsnew_70.lang 	
-mark_active firefox/whatsnew_71.lang 	
+mark_active firefox/whatsnew_71.lang 
+mark_active firefox/whatsnew_73.lang 
 mark_active firefox/windows-64-bit.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
 mark_active mozorg/about-2019.lang
+mark_active about/governance/policies/community-hotline.lang
+mark_active mozorg/about/governance/policies/participation.lang
+mark_active mozorg/about/governance/policies/reporting.lang
 mark_active mozorg/browser-history.lang
 mark_active mozorg/home/index-quantum.lang
 mark_active mozorg/internet-health.lang
