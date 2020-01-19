@@ -54,7 +54,7 @@ mark_active firefox/windows-64-bit.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
 mark_active mozorg/about-2019.lang
-mark_active about/governance/policies/community-hotline.lang
+mark_active mozorg/about/governance/policies/community-hotline.lang
 mark_active mozorg/about/governance/policies/participation.lang
 mark_active mozorg/about/governance/policies/reporting.lang
 mark_active mozorg/browser-history.lang
