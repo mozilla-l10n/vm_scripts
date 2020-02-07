@@ -21,6 +21,7 @@ mark_active firefox/accounts-2019.lang
 mark_active firefox/adblocker.lang
 mark_active firefox/all-unified.lang
 mark_active firefox/best-browser.lang
+mark_active firefox/browsers.lang
 mark_active firefox/campaign-trailhead.lang
 mark_active firefox/channel/index.lang
 mark_active firefox/compare.lang
@@ -32,6 +33,7 @@ mark_active firefox/mobile-2019.lang
 mark_active firefox/new/quantum.lang
 mark_active firefox/new/trailhead.lang
 mark_active firefox/nightly_firstrun.lang
+mark_active firefox/products.lang
 mark_active firefox/products/lockwise.lang
 mark_active firefox/profile-per-install.lang
 mark_active firefox/sendto.lang
@@ -89,6 +91,7 @@ add_tags firefox/products/developer-quantum.lang
 add_tags firefox/sendto.lang
 add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew.lang
+add_tags firefox/whatsnew_73.lang 
 add_tags mozorg/about/manifesto.lang
 add_tags mozorg/home/index-quantum.lang
 add_tags mozorg/internet-health/decentralization.lang
