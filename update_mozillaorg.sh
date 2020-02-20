@@ -28,7 +28,6 @@ mark_active firefox/compare.lang
 mark_active firefox/facebookcontainer/index.lang
 mark_active firefox/home-master.lang
 mark_active firefox/installer-help.lang
-mark_active firefox/mobile.lang
 mark_active firefox/mobile-2019.lang
 mark_active firefox/new/quantum.lang
 mark_active firefox/new/trailhead.lang
@@ -39,7 +38,6 @@ mark_active firefox/profile-per-install.lang
 mark_active firefox/sendto.lang
 mark_active firefox/set-default-thanks.lang
 mark_active firefox/switch.lang
-mark_active firefox/tracking-protection-tour.lang
 mark_active firefox/welcome/page1.lang
 mark_active firefox/welcome/page2.lang
 mark_active firefox/welcome/page3.lang
@@ -84,12 +82,10 @@ add_tags firefox/features/password-manager.lang
 add_tags firefox/features/send-tabs.lang
 add_tags firefox/nightly_whatsnew.lang
 add_tags firefox/hub/home-quantum.lang
-add_tags firefox/mobile.lang
 add_tags firefox/new/quantum.lang
 add_tags firefox/new/trailhead.lang
 add_tags firefox/products/developer-quantum.lang
 add_tags firefox/sendto.lang
-add_tags firefox/tracking-protection-tour.lang
 add_tags firefox/whatsnew.lang
 add_tags firefox/whatsnew_73.lang 
 add_tags mozorg/about/manifesto.lang
