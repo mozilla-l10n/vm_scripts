@@ -25,6 +25,11 @@ mark_active firefox/browsers.lang
 mark_active firefox/campaign-trailhead.lang
 mark_active firefox/channel/index.lang
 mark_active firefox/compare.lang
+mark_active firefox/compare/chrome.lang
+mark_active firefox/compare/edge.lang
+mark_active firefox/compare/ie.lang
+mark_active firefox/compare/opera.lang
+mark_active firefox/compare/safari.lang
 mark_active firefox/facebookcontainer/index.lang
 mark_active firefox/home-master.lang
 mark_active firefox/installer-help.lang
