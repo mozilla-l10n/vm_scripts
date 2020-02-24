@@ -49,9 +49,6 @@ mark_active firefox/welcome/page3.lang
 mark_active firefox/welcome/page4.lang
 mark_active firefox/welcome/page5.lang
 mark_active firefox/whatsnew.lang
-mark_active firefox/whatsnew_67.lang
-mark_active firefox/whatsnew_67.0.5.lang
-mark_active firefox/whatsnew_69.lang
 mark_active firefox/whatsnew_70.lang 	
 mark_active firefox/whatsnew_71.lang 
 mark_active firefox/whatsnew_73.lang 
