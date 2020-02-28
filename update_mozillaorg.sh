@@ -52,6 +52,7 @@ mark_active firefox/whatsnew.lang
 mark_active firefox/whatsnew_70.lang 	
 mark_active firefox/whatsnew_71.lang 
 mark_active firefox/whatsnew_73.lang 
+mark_active firefox/whatsnew_74.lang 
 mark_active firefox/windows-64-bit.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
