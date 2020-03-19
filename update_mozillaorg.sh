@@ -53,6 +53,7 @@ mark_active firefox/whatsnew_70.lang
 mark_active firefox/whatsnew_71.lang 
 mark_active firefox/whatsnew_73.lang 
 mark_active firefox/whatsnew_74.lang 
+mark_active firefox/whatsnew_75.lang 
 mark_active firefox/windows-64-bit.lang
 mark_active mozorg/404.lang
 mark_active mozorg/500.lang
@@ -91,6 +92,8 @@ add_tags firefox/products/developer-quantum.lang
 add_tags firefox/sendto.lang
 add_tags firefox/whatsnew.lang
 add_tags firefox/whatsnew_73.lang 
+add_tags mozorg/404.lang
+add_tags mozorg/500.lang
 add_tags mozorg/about/manifesto.lang
 add_tags mozorg/home/index-quantum.lang
 add_tags mozorg/internet-health/decentralization.lang
