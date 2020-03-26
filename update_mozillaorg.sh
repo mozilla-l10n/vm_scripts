@@ -48,6 +48,8 @@ mark_active firefox/welcome/page2.lang
 mark_active firefox/welcome/page3.lang
 mark_active firefox/welcome/page4.lang
 mark_active firefox/welcome/page5.lang
+mark_active firefox/welcome/page6.lang
+mark_active firefox/welcome/page7.lang
 mark_active firefox/whatsnew.lang
 mark_active firefox/whatsnew_70.lang 	
 mark_active firefox/whatsnew_71.lang 
