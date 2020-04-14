@@ -30,7 +30,9 @@ mark_active firefox/compare/edge.lang
 mark_active firefox/compare/ie.lang
 mark_active firefox/compare/opera.lang
 mark_active firefox/compare/safari.lang
+mark_active firefox/enterprise/index.lang
 mark_active firefox/facebookcontainer/index.lang
+mark_active firefox/features/index.lang
 mark_active firefox/home-master.lang
 mark_active firefox/installer-help.lang
 mark_active firefox/mobile-2019.lang
